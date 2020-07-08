@@ -1,0 +1,11 @@
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojAssemblyReference.cache
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.View.frmNhanVien.resources
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+D:\Documents\ThucTapTotNghiep\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
